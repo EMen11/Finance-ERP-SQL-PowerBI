@@ -75,11 +75,15 @@ PDF Export: [`docs/SQL Project.pdf`](docs/SQL%20Project.pdf)
 - Revenue by Customer  
 - Revenue by Product  
 
+![Dashboard Page 1](docs/dashboard_page1.png)
+
 ### Page 2 – Risk & Data Quality
 - Risk KPIs: Avg Days Past Due, % Invoices Overdue, % Amount Overdue, Max Days Past Due  
 - Aging Report: overdue amounts by customer and aging bucket  
 - Scenario (What-If) block with Payment Delay parameter  
-- Data Quality checks: % Clean Invoices, Duplicate numbers, anomalies  
+- Data Quality checks: % Clean Invoices, Duplicate numbers, anomalies 
+
+![Dashboard Page 2](docs/dashboard_page2.png)  
 
 ---
 
