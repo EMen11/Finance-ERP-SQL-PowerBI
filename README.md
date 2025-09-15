@@ -67,7 +67,8 @@ File: [`db/05_generation.sql`](db/05_generation.sql)
 
 File: [ERP Demo - SQL Project.pbix](powerbi/ERP%20Demo%20-%20SQL%20Project.pbix)
 
-PDF Export: [`docs/SQL Project.pdf`](docs/SQL%20Project.pdf)
+PDF Export: [ERP Demo - SQL Project.pdf](docs/ERP%20Demo%20-%20SQL%20Project.pdf)
+
 
 ### Page 1 – Financial Overview
 - KPIs: Total Billed, Total Collected, Open Balance, % Collected  
@@ -85,11 +86,4 @@ PDF Export: [`docs/SQL Project.pdf`](docs/SQL%20Project.pdf)
 
 ![Dashboard Page 2](docs/dashboard_page2.png)  
 
----
 
-## 7. How to Run
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/<your-username>/erp-sql-powerbi.git
-   cd erp-sql-powerbi
