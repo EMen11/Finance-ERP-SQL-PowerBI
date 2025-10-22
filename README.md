@@ -181,7 +181,7 @@ This project shows how a PostgreSQL database can power a realistic **ERP-style d
 - Page 2 extends to **Risk & Data Quality**, with overdue analysis, scenario testing, and audit-style controls.  
 
 Because the dataset is intentionally **small and synthetic**, most Data Quality checks return “clean.”  
-👉 In a larger dataset, more anomalies would naturally appear, making the DQ section more populated.  
+In a larger dataset, more anomalies would naturally appear, making the DQ section more populated.  
 
 Still, this setup is enough to demonstrate:  
 - SQL proficiency (schema, views, PL/pgSQL generation).  
